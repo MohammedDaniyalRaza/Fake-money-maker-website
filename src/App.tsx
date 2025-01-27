@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { DollarSign, Wallet2, AlertCircle, X, ArrowLeft, Trophy, TrendingUp, ChevronRight, Users, Shield, Clock, LogOut } from 'lucide-react';
+import { DollarSign, Wallet2, AlertCircle, X, ArrowLeft, ChevronRight, Users, Shield, Clock, LogOut } from 'lucide-react';
 import { SignIn, SignedIn, SignedOut, useUser, useClerk } from '@clerk/clerk-react';
 
 function App() {
